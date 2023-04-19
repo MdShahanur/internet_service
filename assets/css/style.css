@@ -2,7 +2,7 @@ h1,h2{
     text-align: center;
 }
 p{
-   font-size: 25px;
+   font-size: 20px;
    text-align: justify;
 }
 .hero {
@@ -25,7 +25,10 @@ p{
     font-size: 30px;
 
 }
-
+.contact .info-item {    
+    margin-bottom: 20px!important;
+}
+    
 
 
 
