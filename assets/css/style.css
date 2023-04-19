@@ -1,4 +1,4 @@
-h1{
+h1,h2{
     text-align: center;
 }
 p{
@@ -21,6 +21,10 @@ p{
     margin-top: 10px;
     margin-bottom: 10px;
 }
+.wellcome{
+    font-size: 30px;
+
+}
 
 
 
@@ -32,6 +36,12 @@ p{
             font-size: 25px;
             margin-top: -20px;
         }
+        .wellcome{
+            font-size: 20px;
+        
+        }
+        
+        
 
 
     }
