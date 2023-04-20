@@ -32,7 +32,7 @@ h1,h2,h3, h4,h5, h6{
     }
 
 
-p{
+.text_body p{
    font-size: 20px;
    text-align: justify;
    color: #6f6f6f;
@@ -66,9 +66,11 @@ p{
     margin-bottom: 20px!important;
 }
 
-.abuut_img{
-    width: 110%;
+
+.text_body{
+    padding-top: 10%;
 }
+
 
 
     
